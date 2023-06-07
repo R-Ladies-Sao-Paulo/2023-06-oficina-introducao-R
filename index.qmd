@@ -21,7 +21,9 @@ Este código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetu
 
 ### Siga a R-Ladies São Paulo!
 
-- [Linkedin]()
+-   [Blog](https://rladies-sp.org/)
+
+-   [Linkedin](https://www.linkedin.com/company/r-ladies-sao-paulo/)
 
 -   [Meetup](https://www.meetup.com/rladies-sao-paulo/)
 
@@ -34,5 +36,9 @@ Este código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetu
 ## Apoio
 
 [![](https://www.insper.edu.br/wp-content/uploads/2020/04/Insper-positivo.png){fig-alt="Logo do Insper" fig-align="center" width="30%"}](https://www.insper.edu.br/)
+
+
+
+![R Consortium Logo](https://www.r-consortium.org/wp-content/uploads/sites/13/2016/09/RConsortium_Horizontal_Pantone.png){alt="R Consortium Logo" width="50%" fig-align="center"}
 
 <!-- [![](https://blog.curso-r.com/images/logo.webp){fig-alt="Logo da Curso-R" fig-align="center" width="30%"}](https://curso-r.com/) -->

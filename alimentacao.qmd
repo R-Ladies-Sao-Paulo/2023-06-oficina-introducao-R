@@ -5,7 +5,11 @@ format: html
 editor: visual
 ---
 
-Neste evento, não teremos café colaborativo. As pessoas participantes são livres para trazer seus próprios lanches, comidas, etc. Além disso, existem diversas opções de alimentação no Insper e nas proximidades.
+## Café colaborativo
+
+### Neste evento, teremos um café colaborativo!
+
+-   As pessoas participantes podem levar comes e bebes para compartilhar com o grupo, mas **não** é obrigatório!
 
 ## Alimentação no Insper
 
@@ -18,7 +22,6 @@ O Insper tem duas unidades na mesma rua:
 Mais informações no [site do Insper](https://www.insper.edu.br/campus/mapa-dos-andares/).
 
 ## Lista de restaurantes na proximidade
-
 
 ```{r}
 #| echo: false
@@ -33,4 +36,3 @@ restaurantes |>
   dplyr::select(Restaurante = restaurante, `Distância em metros` = dist) |>
   knitr::kable()
 ```
-

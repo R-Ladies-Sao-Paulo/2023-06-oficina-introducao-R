@@ -5,24 +5,16 @@ format: html
 editor: visual
 ---
 
-- [Materiais da oficina - arquivos e tabelas](https://github.com/R-Ladies-Sao-Paulo/2023-06-oficina-introducao-R/raw/main/materiais-oficina.zip){target="_blank"}
+-   [Materiais da oficina - arquivos e tabelas](https://github.com/R-Ladies-Sao-Paulo/2023-06-oficina-introducao-R/raw/main/materiais-oficina.zip){target="_blank"}
 
-- Preencham a lista de presença! O link está nas lousas. Essa lista será usada para gerar os certificados e para realizar os sorteios :)
+-   Preencham a lista de presença! O link será disponibilizado durante a atividade. Essa lista será usada para gerar os certificados e para realizar os sorteios :)
 
-- Temos um grupo no telegram! Caso queiram entrar, peça para alguma das pessoas organizadoras.
+-   Temos um grupo no telegram! Caso queiram entrar, peça para alguma das pessoas organizadoras.
 
-- [Folhas de cola](https://posit.co/resources/cheatsheets/?type=translations/#translation-10)
+-   [Folhas de cola](https://posit.co/resources/cheatsheets/?type=translations/#translation-10)
 
-- [Cursos de verão do IME/USP](https://www.ime.usp.br/verao/index.php/turmas/apresentacao.php){target="_blank"} 
-
-- [Bolsas de diversidade Curso-R para 2023](https://forms.gle/ejoanQgRfQzRqToq9){target="_blank"} 
-
--   29/11 - 19h00 - Live no canal da Curso-R: [Dicas da psicologia para potencializar seus estudos em Ciência de Dados com Altay Lino de Souza](https://www.youtube.com/watch?v=GfkqhZQj9II){target="_blank"}      
-
-- [Data to viz - visualização de dados](https://www.data-to-viz.com/)
-
+-   [Bolsas de diversidade Curso-R para 2023](https://forms.gle/ejoanQgRfQzRqToq9){target="_blank"}
 
 ## Formulário de feedback!
 
-- [https://forms.gle/pMq3RebP5b26S73g8](https://forms.gle/pMq3RebP5b26S73g8)
-    
+-   Em breve!
