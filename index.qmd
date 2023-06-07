@@ -1,0 +1,38 @@
+---
+title: "Oficina de Introdução ao R e ao Tidyverse"
+author: "R-Ladies São Paulo"
+format: html
+editor: visual
+---
+
+## Boas vindas!
+
+Essa oficina acontecerá presencialmente, em São Paulo, em 24/06/2023.
+
+Inscrições através da plataforma [Meetup](https://www.meetup.com/rladies-sao-paulo/events/294002840/).
+
+### Protocolos referentes à COVID-19
+
+Recomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.
+
+### Código de conduta
+
+Este código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: [Clique aqui para acessar o código de conduta](https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#portuguese).
+
+### Siga a R-Ladies São Paulo!
+
+- [Linkedin]()
+
+-   [Meetup](https://www.meetup.com/rladies-sao-paulo/)
+
+-   [Youtube](https://www.youtube.com/c/RLadiesS%C3%A3oPaulo)
+
+-   [Twitter](https://twitter.com/RLadiesSaoPaulo)
+
+-   [Instagram](https://instagram.com/rladiessaopaulo)
+
+## Apoio
+
+[![](https://www.insper.edu.br/wp-content/uploads/2020/04/Insper-positivo.png){fig-alt="Logo do Insper" fig-align="center" width="30%"}](https://www.insper.edu.br/)
+
+<!-- [![](https://blog.curso-r.com/images/logo.webp){fig-alt="Logo da Curso-R" fig-align="center" width="30%"}](https://curso-r.com/) -->
