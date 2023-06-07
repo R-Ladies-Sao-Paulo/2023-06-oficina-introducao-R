@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "slides.html",
-    "href": "slides.html",
-    "title": "Slides e materiais",
-    "section": "",
-    "text": "Slide\nMinistrante\n\n\n\n\n\nConhecendo as R-Ladies São Paulo\nTatyane Paz\n\n\n\nIntrodução ao R - Parte 1\nBeatriz Milz\n\n\n\nIntrodução ao R - Parte 2\nBruna Garbes\n\n\n\nIntrodução ao Tidyverse\nAna Carolina Moreno e Jean Prado\n\n\n\nMateriais da oficina - arquivos e tabelas\nAna Carolina Moreno e Jean Prado\n\n\n\nScript de prática do Tidyverse\nAna Carolina Moreno e Jean Prado"
+    "objectID": "apoio.html#apoio-financeiro",
+    "href": "apoio.html#apoio-financeiro",
+    "title": "Apoio",
+    "section": "Apoio financeiro",
+    "text": "Apoio financeiro\n\n\n\nR Consortium Logo"
   },
   {
-    "objectID": "slides.html#agradecimentos",
-    "href": "slides.html#agradecimentos",
-    "title": "Slides e materiais",
-    "section": "Agradecimentos",
-    "text": "Agradecimentos\nAgradecimentos várias pessoas pela contribuição, direta ou indireta, neste material.\n\nEquipe R-Ladies São Paulo\nLucas Gelape\nCurso-R"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Oficina de Introdução ao R e ao Tidyverse",
+    "section": "",
+    "text": "Essa oficina acontecerá presencialmente, em São Paulo, em 24/06/2023.\nInscrições através da plataforma Meetup.\n\n\nRecomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.\n\n\n\nEste código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: Clique aqui para acessar o código de conduta.\n\n\n\n\nBlog\nLinkedin\nMeetup\nYoutube\nTwitter\nInstagram"
+  },
+  {
+    "objectID": "index.html#boas-vindas",
+    "href": "index.html#boas-vindas",
+    "title": "Oficina de Introdução ao R e ao Tidyverse",
+    "section": "",
+    "text": "Essa oficina acontecerá presencialmente, em São Paulo, em 24/06/2023.\nInscrições através da plataforma Meetup.\n\n\nRecomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.\n\n\n\nEste código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: Clique aqui para acessar o código de conduta.\n\n\n\n\nBlog\nLinkedin\nMeetup\nYoutube\nTwitter\nInstagram"
+  },
+  {
+    "objectID": "index.html#apoio",
+    "href": "index.html#apoio",
+    "title": "Oficina de Introdução ao R e ao Tidyverse",
+    "section": "Apoio",
+    "text": "Apoio\n\n\n\n\n\n\n\n\nR Consortium Logo"
   },
   {
     "objectID": "slide-intro-r-parte-ii.html#scripts",
@@ -189,132 +203,6 @@
     "text": "Erros mais comuns!\n\nRodar uma linha de código sem ter rodado as anteriores, que fazem parte de uma “sequência” de comandos para o programa\nPequenos erros de digitação ao escrever o código\nNão selecionar o trecho inteiro de código na hora de rodar\nDica: o pacote tidylog te dá um relatório de tudo o que ele fez, e ajuda a encontrar a origem dos erros\n\n\n\n\nSlides feitos com Quarto e Quarto R-Ladies Theme."
   },
   {
-    "objectID": "mensagens.html",
-    "href": "mensagens.html",
-    "title": "Mensagens",
-    "section": "",
-    "text": "Materiais da oficina - arquivos e tabelas\nPreencham a lista de presença! O link está nas lousas. Essa lista será usada para gerar os certificados e para realizar os sorteios :)\nTemos um grupo no telegram! Caso queiram entrar, peça para alguma das pessoas organizadoras.\nFolhas de cola\nCursos de verão do IME/USP\nBolsas de diversidade Curso-R para 2023\n29/11 - 19h00 - Live no canal da Curso-R: Dicas da psicologia para potencializar seus estudos em Ciência de Dados com Altay Lino de Souza\nData to viz - visualização de dados"
-  },
-  {
-    "objectID": "mensagens.html#formulário-de-feedback",
-    "href": "mensagens.html#formulário-de-feedback",
-    "title": "Mensagens",
-    "section": "Formulário de feedback!",
-    "text": "Formulário de feedback!\n\nhttps://forms.gle/pMq3RebP5b26S73g8"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Oficina de Introdução ao R e ao Tidyverse",
-    "section": "",
-    "text": "Essa oficina acontecerá presencialmente, em São Paulo, em 24/06/2023.\nInscrições através da plataforma Meetup.\n\n\nRecomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.\n\n\n\nEste código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: Clique aqui para acessar o código de conduta.\n\n\n\n\nLinkedin\nMeetup\nYoutube\nTwitter\nInstagram"
-  },
-  {
-    "objectID": "index.html#boas-vindas",
-    "href": "index.html#boas-vindas",
-    "title": "Oficina de Introdução ao R e ao Tidyverse",
-    "section": "",
-    "text": "Essa oficina acontecerá presencialmente, em São Paulo, em 24/06/2023.\nInscrições através da plataforma Meetup.\n\n\nRecomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.\n\n\n\nEste código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: Clique aqui para acessar o código de conduta.\n\n\n\n\nLinkedin\nMeetup\nYoutube\nTwitter\nInstagram"
-  },
-  {
-    "objectID": "index.html#apoio",
-    "href": "index.html#apoio",
-    "title": "Oficina de Introdução ao R e ao Tidyverse",
-    "section": "Apoio",
-    "text": "Apoio"
-  },
-  {
-    "objectID": "como-chegar.html",
-    "href": "como-chegar.html",
-    "title": "Como chegar",
-    "section": "",
-    "text": "O evento acontecerá no Insper, em São Paulo - SP."
-  },
-  {
-    "objectID": "como-chegar.html#como-chegar",
-    "href": "como-chegar.html#como-chegar",
-    "title": "Como chegar",
-    "section": "Como chegar",
-    "text": "Como chegar\nEndereço: Rua Quatá, 200."
-  },
-  {
-    "objectID": "como-chegar.html#estacionamento",
-    "href": "como-chegar.html#estacionamento",
-    "title": "Como chegar",
-    "section": "Estacionamento",
-    "text": "Estacionamento\nExistem estacionamentos pagos nos dois prédios do Insper. Mais informações no site do Insper."
-  },
-  {
-    "objectID": "slide-rladies.html#o-que-é-a-r-ladies",
-    "href": "slide-rladies.html#o-que-é-a-r-ladies",
-    "title": "Conhecendo a R-Ladies São Paulo",
-    "section": "O que é a R-Ladies?",
-    "text": "O que é a R-Ladies?\nR-Ladies é uma organização mundial cuja missão é promover a diversidade de gênero na comunidade da linguagem R.\nR-Ladies São Paulo integra, orgulhosamente, a organização R-Ladies Global, em São Paulo."
-  },
-  {
-    "objectID": "slide-rladies.html#como",
-    "href": "slide-rladies.html#como",
-    "title": "Conhecendo a R-Ladies São Paulo",
-    "section": "Como?",
-    "text": "Como?\nAtravés de meetups e mentorias em um ambiente seguro e amigável.\nNosso principal objetivo é promover a linguagem computacional estatística R compartilhando conhecimento, assim, quem tiver interesse na linguagem será bem-vinda, independente do nível de conhecimento.\n\nFonte: About us - R-Ladies, Meetup - São Paulo"
-  },
-  {
-    "objectID": "slide-rladies.html#para-quem",
-    "href": "slide-rladies.html#para-quem",
-    "title": "Conhecendo a R-Ladies São Paulo",
-    "section": "Para quem?",
-    "text": "Para quem?\nNosso principal público-alvo são as pessoas que se identificam com gêneros sub-representados na comunidade R, portanto: mulheres cis, mulheres trans, homens trans, pessoas não-binárias e queer."
-  },
-  {
-    "objectID": "slide-rladies.html#missão",
-    "href": "slide-rladies.html#missão",
-    "title": "Conhecendo a R-Ladies São Paulo",
-    "section": "Missão",
-    "text": "Missão\nComo uma iniciativa de diversidade, a missão das R-Ladies é alcançar uma representação proporcional de pessoas de gêneros atualmente sub-representados na comunidade R, incentivando, inspirando e capacitando-as."
-  },
-  {
-    "objectID": "slide-rladies.html#código-de-conduta",
-    "href": "slide-rladies.html#código-de-conduta",
-    "title": "Conhecendo a R-Ladies São Paulo",
-    "section": "Código de conduta",
-    "text": "Código de conduta\nA R-Ladies dedica-se a proporcionar uma experiência livre de assédio para todas as pessoas partcicipantes, desta forma, não é tolerada nenhuma forma de assédio. Código de conduta - R-Ladies\n\nFonte: About us - R-Ladies, Meetup - São Paulo"
-  },
-  {
-    "objectID": "slide-rladies.html#r-ladies---capítulos-no-mundo",
-    "href": "slide-rladies.html#r-ladies---capítulos-no-mundo",
-    "title": "Conhecendo a R-Ladies São Paulo",
-    "section": "R-Ladies - Capítulos no mundo",
-    "text": "R-Ladies - Capítulos no mundo\n\n\n\n\n\nRegião\nNúmero de Capítulos\nTotal de participantes\n\n\n\n\nUS/Canada\n59\n30112\n\n\nLatin America\n58\n27774\n\n\nEurope\n57\n25056\n\n\nAsia\n19\n5806\n\n\nAfrica\n12\n5688\n\n\nAustralia\n10\n5371\n\n\nPacific/Galapagos\n1\n460\n\n\n\n\n\n\nAtualizado em: 06/2023. Fonte: R Community Explorer"
-  },
-  {
-    "objectID": "slide-rladies.html#r-ladies-no-brasil",
-    "href": "slide-rladies.html#r-ladies-no-brasil",
-    "title": "Conhecendo a R-Ladies São Paulo",
-    "section": "R-Ladies no Brasil",
-    "text": "R-Ladies no Brasil\n\n\n\n\n\n\n\n\n\nCapítulo\nParticipantes\n\n\n\n\nR-Ladies São Paulo\n1340\n\n\nR-Ladies Belo Horizonte\n894\n\n\nR-Ladies Niterói\n760\n\n\nR-Ladies Rio de Janeiro\n644\n\n\nR-Ladies Natal\n456\n\n\nR-Ladies Floripa\n448\n\n\nR-Ladies Goiânia\n417\n\n\nR-Ladies Porto Alegre\n362\n\n\nR-Ladies Salvador\n246\n\n\n\n\n\n\nAtualizado em: 06/2023. Fonte: R Community Explorer"
-  },
-  {
-    "objectID": "slide-rladies.html#r-ladies-no-brasil-1",
-    "href": "slide-rladies.html#r-ladies-no-brasil-1",
-    "title": "Conhecendo a R-Ladies São Paulo",
-    "section": "R-Ladies no Brasil",
-    "text": "R-Ladies no Brasil\n\n\n\n\n\n\n\n\n\nCapítulo\nParticipantes\n\n\n\n\nR-Ladies Vitória\n218\n\n\nR-Ladies Recife\n153\n\n\nR-Ladies Fortaleza\n112\n\n\nR-Ladies Lavras\n66\n\n\nR-Ladies Curitiba\n63\n\n\nR-Ladies Brasília\n61\n\n\nR-Ladies São Mateus\n10\n\n\n\n\n\n\nAtualizado em: 06/2023. Fonte: R Community Explorer"
-  },
-  {
-    "objectID": "slide-rladies.html#r-ladies-em-são-paulo",
-    "href": "slide-rladies.html#r-ladies-em-são-paulo",
-    "title": "Conhecendo a R-Ladies São Paulo",
-    "section": "R-Ladies em São Paulo",
-    "text": "R-Ladies em São Paulo\n\n\nPrimeiro encontro da R-Ladies São Paulo - 2018\n+ 1340 pessoas participantes - 06/2023"
-  },
-  {
-    "objectID": "slide-rladies.html#saiba-mais-sobre-a-r-ladies",
-    "href": "slide-rladies.html#saiba-mais-sobre-a-r-ladies",
-    "title": "Conhecendo a R-Ladies São Paulo",
-    "section": "Saiba mais sobre a R-Ladies",
-    "text": "Saiba mais sobre a R-Ladies\n\nR-Ladies Global: Website,  Twitter\nR-Ladies São Paulo:\n\n Twitter\n Instagram\n Facebook\n Meetup\n GitHub\n Youtube\n\nCapítulos da R-Ladies no Brasil - Não tem capítulo na sua cidade e quer iniciar um? Saiba como em R-Ladies - How do get involved!\n\n\n\n\n\n\n\nSlides feitos com Quarto e Quarto R-Ladies Theme."
-  },
-  {
     "objectID": "slide-intro-r-parte-i.html#você-deveria-estar-aqui-hoje",
     "href": "slide-intro-r-parte-i.html#você-deveria-estar-aqui-hoje",
     "title": "Introdução ao R - Parte I",
@@ -441,25 +329,25 @@
     "text": "Potencial do R\n\nAbrir uma base de dados\nLimpar a base de dados (ex: formatar uma data ou tirar os acentos dos nomes)\nTransformar a base de dados (ex: a partir da coluna de data, criar uma coluna nova só com o mês)\nVisualizar os dados em formatos de gráficos ou mapas (ou mesmo relatórios em PDF ou websites)\nE muito mais!"
   },
   {
-    "objectID": "alimentacao.html",
-    "href": "alimentacao.html",
-    "title": "Alimentação",
+    "objectID": "como-chegar.html",
+    "href": "como-chegar.html",
+    "title": "Como chegar",
     "section": "",
-    "text": "Neste evento, não teremos café colaborativo. As pessoas participantes são livres para trazer seus próprios lanches, comidas, etc. Além disso, existem diversas opções de alimentação no Insper e nas proximidades."
+    "text": "O evento acontecerá no Insper, em São Paulo - SP."
   },
   {
-    "objectID": "alimentacao.html#alimentação-no-insper",
-    "href": "alimentacao.html#alimentação-no-insper",
-    "title": "Alimentação",
-    "section": "Alimentação no Insper",
-    "text": "Alimentação no Insper\nO Insper tem duas unidades na mesma rua:\n\nNo prédio 1 (Rua Quatá 300), no 5º andar existe um restaurante por kilo, e também um refeitório com microondas.\nNo prédio 2 (Quatá 200), no 6º andar existe uma lanchonete, um refeitório com mesas e microondas, além de um terraço com mesas.\n\nMais informações no site do Insper."
+    "objectID": "como-chegar.html#como-chegar",
+    "href": "como-chegar.html#como-chegar",
+    "title": "Como chegar",
+    "section": "Como chegar",
+    "text": "Como chegar\nEndereço: Rua Quatá, 200."
   },
   {
-    "objectID": "alimentacao.html#lista-de-restaurantes-na-proximidade",
-    "href": "alimentacao.html#lista-de-restaurantes-na-proximidade",
-    "title": "Alimentação",
-    "section": "Lista de restaurantes na proximidade",
-    "text": "Lista de restaurantes na proximidade\n\n\n\n\nRestaurante\nDistância em metros\n\n\n\nCharme da Vila\n100\n\n\nDona deôla (restaurante por kilo no Prédio 1 do Insper)\n140\n\n\nSukiya\n350\n\n\nBurguer King\n400"
+    "objectID": "como-chegar.html#estacionamento",
+    "href": "como-chegar.html#estacionamento",
+    "title": "Como chegar",
+    "section": "Estacionamento",
+    "text": "Estacionamento\nExistem estacionamentos pagos nos dois prédios do Insper. Mais informações no site do Insper."
   },
   {
     "objectID": "slide-intro-tidyverse.html#tidyverse",
@@ -572,5 +460,131 @@
     "title": "Parte II - Introdução ao tidyverse",
     "section": "Hora de praticar!",
     "text": "Hora de praticar!\nVamos abrir o arquivo tidyverse-pratica.R para analisar dados sobre a eleição de policiais e militares no Legislativo.\nO objetivo vai ser atualizar essa reportagem do G1 com os dados das eleições de 2022!\n\n\n\nSlides feitos com Quarto e Quarto R-Ladies Theme."
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Slides e materiais",
+    "section": "",
+    "text": "Slide\nMinistrante\n\n\n\n\n\nConhecendo as R-Ladies São Paulo\nTatyane Paz\n\n\n\nIntrodução ao R - Parte 1\nBeatriz Milz\n\n\n\nIntrodução ao R - Parte 2\nBruna Garbes\n\n\n\nIntrodução ao Tidyverse\nAna Carolina Moreno e Jean Prado\n\n\n\nMateriais da oficina - arquivos e tabelas\nAna Carolina Moreno e Jean Prado\n\n\n\nScript de prática do Tidyverse\nAna Carolina Moreno e Jean Prado"
+  },
+  {
+    "objectID": "slides.html#agradecimentos",
+    "href": "slides.html#agradecimentos",
+    "title": "Slides e materiais",
+    "section": "Agradecimentos",
+    "text": "Agradecimentos\nAgradecimentos várias pessoas pela contribuição, direta ou indireta, neste material.\n\nEquipe R-Ladies São Paulo\nLucas Gelape\nCurso-R"
+  },
+  {
+    "objectID": "mensagens.html",
+    "href": "mensagens.html",
+    "title": "Mensagens",
+    "section": "",
+    "text": "Materiais da oficina - arquivos e tabelas\nPreencham a lista de presença! O link será disponibilizado durante a atividade. Essa lista será usada para gerar os certificados e para realizar os sorteios :)\nTemos um grupo no telegram! Caso queiram entrar, peça para alguma das pessoas organizadoras.\nFolhas de cola\nBolsas de diversidade Curso-R para 2023"
+  },
+  {
+    "objectID": "mensagens.html#formulário-de-feedback",
+    "href": "mensagens.html#formulário-de-feedback",
+    "title": "Mensagens",
+    "section": "Formulário de feedback!",
+    "text": "Formulário de feedback!\n\nEm breve!"
+  },
+  {
+    "objectID": "alimentacao.html",
+    "href": "alimentacao.html",
+    "title": "Alimentação",
+    "section": "",
+    "text": "As pessoas participantes podem levar comes e bebes para compartilhar com o grupo, mas não é obrigatório!"
+  },
+  {
+    "objectID": "alimentacao.html#café-colaborativo",
+    "href": "alimentacao.html#café-colaborativo",
+    "title": "Alimentação",
+    "section": "",
+    "text": "As pessoas participantes podem levar comes e bebes para compartilhar com o grupo, mas não é obrigatório!"
+  },
+  {
+    "objectID": "alimentacao.html#alimentação-no-insper",
+    "href": "alimentacao.html#alimentação-no-insper",
+    "title": "Alimentação",
+    "section": "Alimentação no Insper",
+    "text": "Alimentação no Insper\nO Insper tem duas unidades na mesma rua:\n\nNo prédio 1 (Rua Quatá 300), no 5º andar existe um restaurante por kilo, e também um refeitório com microondas.\nNo prédio 2 (Quatá 200), no 6º andar existe uma lanchonete, um refeitório com mesas e microondas, além de um terraço com mesas.\n\nMais informações no site do Insper."
+  },
+  {
+    "objectID": "alimentacao.html#lista-de-restaurantes-na-proximidade",
+    "href": "alimentacao.html#lista-de-restaurantes-na-proximidade",
+    "title": "Alimentação",
+    "section": "Lista de restaurantes na proximidade",
+    "text": "Lista de restaurantes na proximidade\n\n\n\n\nRestaurante\nDistância em metros\n\n\n\nCharme da Vila\n100\n\n\nDona deôla (restaurante por kilo no Prédio 1 do Insper)\n140\n\n\nSukiya\n350\n\n\nBurguer King\n400"
+  },
+  {
+    "objectID": "slide-rladies.html#o-que-é-a-r-ladies",
+    "href": "slide-rladies.html#o-que-é-a-r-ladies",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "O que é a R-Ladies?",
+    "text": "O que é a R-Ladies?\nR-Ladies é uma organização mundial cuja missão é promover a diversidade de gênero na comunidade da linguagem R.\nR-Ladies São Paulo integra, orgulhosamente, a organização R-Ladies Global, em São Paulo."
+  },
+  {
+    "objectID": "slide-rladies.html#como",
+    "href": "slide-rladies.html#como",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Como?",
+    "text": "Como?\nAtravés de meetups e mentorias em um ambiente seguro e amigável.\nNosso principal objetivo é promover a linguagem computacional estatística R compartilhando conhecimento, assim, quem tiver interesse na linguagem será bem-vinda, independente do nível de conhecimento.\n\nFonte: About us - R-Ladies, Meetup - São Paulo"
+  },
+  {
+    "objectID": "slide-rladies.html#para-quem",
+    "href": "slide-rladies.html#para-quem",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Para quem?",
+    "text": "Para quem?\nNosso principal público-alvo são as pessoas que se identificam com gêneros sub-representados na comunidade R, portanto: mulheres cis, mulheres trans, homens trans, pessoas não-binárias e queer."
+  },
+  {
+    "objectID": "slide-rladies.html#missão",
+    "href": "slide-rladies.html#missão",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Missão",
+    "text": "Missão\nComo uma iniciativa de diversidade, a missão das R-Ladies é alcançar uma representação proporcional de pessoas de gêneros atualmente sub-representados na comunidade R, incentivando, inspirando e capacitando-as."
+  },
+  {
+    "objectID": "slide-rladies.html#código-de-conduta",
+    "href": "slide-rladies.html#código-de-conduta",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Código de conduta",
+    "text": "Código de conduta\nA R-Ladies dedica-se a proporcionar uma experiência livre de assédio para todas as pessoas partcicipantes, desta forma, não é tolerada nenhuma forma de assédio. Código de conduta - R-Ladies\n\nFonte: About us - R-Ladies, Meetup - São Paulo"
+  },
+  {
+    "objectID": "slide-rladies.html#r-ladies---capítulos-no-mundo",
+    "href": "slide-rladies.html#r-ladies---capítulos-no-mundo",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "R-Ladies - Capítulos no mundo",
+    "text": "R-Ladies - Capítulos no mundo\n\n\n\n\n\nRegião\nNúmero de Capítulos\nTotal de participantes\n\n\n\n\nUS/Canada\n59\n30112\n\n\nLatin America\n58\n27774\n\n\nEurope\n57\n25056\n\n\nAsia\n19\n5806\n\n\nAfrica\n12\n5688\n\n\nAustralia\n10\n5371\n\n\nPacific/Galapagos\n1\n460\n\n\n\n\n\n\nAtualizado em: 06/2023. Fonte: R Community Explorer"
+  },
+  {
+    "objectID": "slide-rladies.html#r-ladies-no-brasil",
+    "href": "slide-rladies.html#r-ladies-no-brasil",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "R-Ladies no Brasil",
+    "text": "R-Ladies no Brasil\n\n\n\n\n\n\n\n\n\nCapítulo\nParticipantes\n\n\n\n\nR-Ladies São Paulo\n1340\n\n\nR-Ladies Belo Horizonte\n894\n\n\nR-Ladies Niterói\n760\n\n\nR-Ladies Rio de Janeiro\n644\n\n\nR-Ladies Natal\n456\n\n\nR-Ladies Floripa\n448\n\n\nR-Ladies Goiânia\n417\n\n\nR-Ladies Porto Alegre\n362\n\n\nR-Ladies Salvador\n246\n\n\n\n\n\n\nAtualizado em: 06/2023. Fonte: R Community Explorer"
+  },
+  {
+    "objectID": "slide-rladies.html#r-ladies-no-brasil-1",
+    "href": "slide-rladies.html#r-ladies-no-brasil-1",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "R-Ladies no Brasil",
+    "text": "R-Ladies no Brasil\n\n\n\n\n\n\n\n\n\nCapítulo\nParticipantes\n\n\n\n\nR-Ladies Vitória\n218\n\n\nR-Ladies Recife\n153\n\n\nR-Ladies Fortaleza\n112\n\n\nR-Ladies Lavras\n66\n\n\nR-Ladies Curitiba\n63\n\n\nR-Ladies Brasília\n61\n\n\nR-Ladies São Mateus\n10\n\n\n\n\n\n\nAtualizado em: 06/2023. Fonte: R Community Explorer"
+  },
+  {
+    "objectID": "slide-rladies.html#r-ladies-em-são-paulo",
+    "href": "slide-rladies.html#r-ladies-em-são-paulo",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "R-Ladies em São Paulo",
+    "text": "R-Ladies em São Paulo\n\n\nPrimeiro encontro da R-Ladies São Paulo - 2018\n+ 1340 pessoas participantes - 06/2023"
+  },
+  {
+    "objectID": "slide-rladies.html#saiba-mais-sobre-a-r-ladies",
+    "href": "slide-rladies.html#saiba-mais-sobre-a-r-ladies",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Saiba mais sobre a R-Ladies",
+    "text": "Saiba mais sobre a R-Ladies\n\nR-Ladies Global: Website,  Twitter\nR-Ladies São Paulo:\n\n Twitter\n Instagram\n Facebook\n Meetup\n GitHub\n Youtube\n\nCapítulos da R-Ladies no Brasil - Não tem capítulo na sua cidade e quer iniciar um? Saiba como em R-Ladies - How do get involved!\n\n\n\n\n\n\n\nSlides feitos com Quarto e Quarto R-Ladies Theme."
   }
 ]

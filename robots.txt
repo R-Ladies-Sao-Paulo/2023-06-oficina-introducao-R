@@ -1,0 +1,1 @@
+Sitemap: https://github.com/R-Ladies-Sao-Paulo/2023-06-oficina-introducao-R/sitemap.xml
