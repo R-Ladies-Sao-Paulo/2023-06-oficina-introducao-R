@@ -2,7 +2,7 @@
 title: "Introdução ao R - Parte II"
 subtitle: "Oficina de Introdução ao R"
 author: "[R-Ladies São Paulo](https://www.meetup.com/rladies-sao-paulo/)"
-date: "26 de Novembro de 2022"
+date: "2023-06-24"
 format: 
   rladies-revealjs:
     footer: "Slides feitos com [Quarto](https://quarto.org/docs/presentations/revealjs/index.html) e [Quarto R-Ladies Theme](https://github.com/beatrizmilz/quarto-rladies-theme#quarto-r-ladies-theme)."
@@ -35,9 +35,6 @@ knitr::include_graphics("https://r4ds.hadley.nz/diagrams/rstudio-editor.png")
 ```{r}
 1 / 200 * 30
 (59 + 73 + 2) / 3
-sin(pi / 2) # seno da divisao de pi por 2
-10 %/% 3 # parte inteira da divisao por 3
-10 %% 3 # resto da divisao por 3
 ```
 
 ## Executando códigos
@@ -74,7 +71,7 @@ x
 
 -   Aproveite para usar a tecla Tab no RStudio: ajuda a autocompletar!
 
--   O R é *case sensitive*:
+-   O R é *case sensitive*: ele diferencia letras maiúsculas e minúsculas.
 
 ```{r}
 r_rocks <- 2 ^ 3
@@ -121,16 +118,14 @@ pessoa
 
 ## As classes dos objetos
 
--   Os objetos podem conter dados de diferentes naturezas (um texto, um número, um booleano). **É o quê estamos armazenando.**
+-   Os objetos podem conter dados de diferentes naturezas (um texto, um número, um booleano). **É o quê estamos armazenando. Principais:**
 
 | CLASSE        | SINÔNIMO                                              |
 |---------------|-------------------------------------------------------|
 | **character** | texto, string, caractere                              |
 | **integer**   | números inteiros                                      |
 | **numeric**   | números racionais (número representado por uma fração |
-| **complex**   | números complexos (raramente usado)                   |
 | **logic**     | lógico, booleano, valor TRUE/FALSE                    |
-| **factor**    | variáveis categóricas                                 |
 
 ## Exemplos de classes
 
@@ -144,16 +139,12 @@ idade2
 passagem <- 4.40 # numero decimal
 passagem
 ```
+
 ## Exemplos de classes
 
 ```{r}
-corrente <- 3 + 2i # numero complexo
-corrente
 sou_linda <- TRUE # booleano
 sou_linda
-escolaridade <- c("Médio", "Superior", "Fundamental", "Fundamental", "Médio")
-fator <- as.factor(escolaridade) # cria objt do tipo factor
-fator # na linha levels temos os rótulos dos fatores
 ```
 
 ## Exemplos de classes
@@ -166,22 +157,15 @@ class(nome)
 
 passagem <- 4.40
 class(passagem)
-
-nivel <- as.factor(c('baixo', 'médio', 'alto'))
-class(nivel)
 ```
 
 ## Os tipos de objetos
 
-É como armazenamos os dados dentro do R
+É como armazenamos os dados dentro do R. Principais neste momento:
 
-**Vector:** armazena elementos de mesma classe
+**Vector:** armazena elementos de mesma classe.
 
-**Matrix:** vetores de duas dimensões que armazenam elementos de mesma classe.
-
-**List:** tipo especial de vetor que aceita elementos de classes diferentes.
-
-**Data.frame:** são tabelas de dados com linhas e colunas, como uma tabela do Excel. Como são listas, essas colunas podem ser de classes diferentes.
+**Data.frame:** são tabelas de dados com linhas e colunas, como uma tabela do Excel. C ada coluna pode ser de classe diferente. Dentro de cada coluna, teremos sempre a mesma classe!
 
 ## NA
 
@@ -196,31 +180,6 @@ NA == NA
 ```
 
 `is.na()` é a função que testa se um objeto é NA
-
-## Estrutura condicional: IF e ELSE
-
-```{r}
-mes <- "Dezembro"
-
-if(mes == "Dezembro") {
- print("O Natal chegou!") # mostra essa mensagem.
-} else {
- print("O ano ainda não acabou!") # mostra essa mensagem.
-}
-```
-
-## Estrutura de repetição: FOR
-
-Com o laço for podemos executar a mesma ação em todos os elementos de uma lista. Essa é uma das maneiras mais comuns para um computador automatizar tarefas repetitivas.
-
-```{r}
-personagens <- c('Luke Skywalker', 'C-3PO', 'R2-D2', 'Darth Vader', 'Leia Organa') # vetor de strings
-
-for(i in seq_along(personagens)) {
- print(personagens[i])
-}
-
-```
 
 ## Operadores relacionais
 
@@ -242,32 +201,11 @@ for(i in seq_along(personagens)) {
 | `|`      | significa OU       |
 | %in%     | significa "contém" |
 
-## O operador pipe: %\>% ou \|\>
-
-(pense nele como uma **vírgula**!)
-
--   pipe = cano, encanamento, fazer a informação fluir
-
--   o valor do lado esquerdo do pipe vira argumento para a função do lado direito e assim por diante
-
-    ```{r}
-    df <- iris |> 
-      dplyr::select(Sepal.Length, Sepal.Width) |>
-      dplyr::filter(Sepal.Length > 7.6) |>
-      dplyr::arrange(desc(Sepal.Length))
-      
-    ```
-
-```{=html}
-<!-- -->
-```
--   Atalho: *CTRL + SHIFT + M*
-
 ## O que é uma função?
 
 -   Função: uma palavra que, no código, dá um comando ao computador.
 -   Ela é escrita seguida de parênteses.
--   Nos parênteses incluímos os atributos (inputs).
+-   Nos parênteses incluímos os argumentos.
 -   O output vai ser a informação que o computador retorna após rodar a função.
 
 (pense nela como um **verbo**!)
@@ -339,7 +277,6 @@ devtools::install_github('rfsaldanha/microdatasus')
 
 ``` r
 library(tidyverse)
-library(microdatasus)
 ```
 
 ## Boas práticas (resumo)
@@ -353,7 +290,7 @@ c)  Escolher nomes úteis e não redundantes
 **Código e comentários:**
 
 a)  Inserir espaços só após as vírgulas e parênteses
-b)  Evite comentar demais e de menos (com a hashtag #)
+b) Comente seu código (com a hashtag #)
 c)  Use a quebra de linha para facilitar a leitura
 
 ## Erros mais comuns!
@@ -362,6 +299,6 @@ c)  Use a quebra de linha para facilitar a leitura
 
 -   Pequenos erros de digitação ao escrever o código
 
--   Não selecionar o trecho inteiro de código na hora de rodar
 
--   Dica: o pacote **tidylog** te dá um relatório de tudo o que ele fez, e ajuda a encontrar a origem dos erros
+
+

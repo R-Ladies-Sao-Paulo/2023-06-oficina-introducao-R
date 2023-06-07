@@ -2,7 +2,7 @@
 title: "Introdução ao R - Parte I"
 subtitle: "Oficina de Introdução ao R"
 author: "[R-Ladies São Paulo](https://www.meetup.com/rladies-sao-paulo/)"
-date: "26 de Novembro de 2022"
+date: "2023-06-24"
 format: 
   rladies-revealjs:
     footer: "Slides feitos com [Quarto](https://quarto.org/docs/presentations/revealjs/index.html) e [Quarto R-Ladies Theme](https://github.com/beatrizmilz/quarto-rladies-theme#quarto-r-ladies-theme)."
@@ -135,7 +135,6 @@ Resposta: nem todas as bases abrem no Excel
 
 ![](https://github.com/R-Ladies-Sao-Paulo/2023-06-oficina-introducao-R/blob/main/img/img02_excel.PNG?raw=true)
 
-
 ## Os limites do Excel
 
 Limite do Excel: **1.048.576 linhas e 16.384 colunas** <br> <br> Para efeito de comparação...
@@ -150,7 +149,7 @@ Limite do Excel: **1.048.576 linhas e 16.384 colunas** <br> <br> Para efeito de 
 
 Podemos usar bases que tenham formato de "tabela":
 
--   cada linha é um registro, e cada coluna traz algum detalhe sobre aquele registro
+-   cada linha é um registro (chamamos de observação), e cada coluna traz algum detalhe sobre aquele registro (chamamos de variável)
 
 -   as colunas ou linhas não estão mescladas ou agrupadas
 

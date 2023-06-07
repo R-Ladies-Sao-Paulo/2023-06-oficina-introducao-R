@@ -2,7 +2,7 @@
 title: "Parte II - Introdução ao tidyverse"
 subtitle: "Oficina de Introdução ao R"
 author: "[R-Ladies São Paulo](https://www.meetup.com/rladies-sao-paulo/)"
-date: "26 de Novembro de 2022"
+date: "2023-06-24"
 format: 
   rladies-revealjs:
     footer: "Slides feitos com [Quarto](https://quarto.org/docs/presentations/revealjs/index.html) e [Quarto R-Ladies Theme](https://github.com/beatrizmilz/quarto-rladies-theme#quarto-r-ladies-theme)."
@@ -64,6 +64,23 @@ Saber poucos comandos já basta pra começar a analisar!
 | **pivot\_**\*   | transforma linhas em colunas e vice-versa  |
 | **bind_rows**\* | junta as linhas de duas tabelas diferentes |
 | **str_sub**\*   | puxa só parte do valor de uma coluna       |
+
+
+## O operador pipe: %\>% ou \|\>
+
+-   pipe = cano, encanamento, fazer a informação fluir
+
+-   o valor do lado esquerdo do pipe vira argumento para a função do lado direito e assim por diante
+
+    ```{r}
+    df <- iris |> 
+      dplyr::select(Sepal.Length, Sepal.Width) |>
+      dplyr::filter(Sepal.Length > 7.6) |>
+      dplyr::arrange(desc(Sepal.Length))
+      
+    ```
+
+-   Atalho: *CTRL + SHIFT + M*
 
 ## Exercícios
 
