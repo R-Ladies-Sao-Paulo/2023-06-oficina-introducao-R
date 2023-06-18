@@ -33,9 +33,8 @@ website:
            - como-chegar.qmd
            - alimentacao.qmd
 
-      - section: "Materiais"
-        contents:
-           - slides.qmd
+      - href: slides.qmd
+      - href: perguntas-frequentes.qmd
       
       - href: apoio.qmd
         text: "Apoio"           
