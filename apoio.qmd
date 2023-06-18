@@ -11,8 +11,8 @@ editor: visual
 
 ## Apoio financeiro
 
-![R Consortium Logo](https://www.r-consortium.org/wp-content/uploads/sites/13/2016/09/RConsortium_Horizontal_Pantone.png){alt="R Consortium Logo" width="50%" fig-align="center"}
+![R Consortium Logo](https://www.r-consortium.org/wp-content/uploads/sites/13/2016/09/RConsortium_Horizontal_Pantone.png){width="50%" fig-align="center"}
 
-<!-- ## Bolsas para sorteio -->
+## Bolsas para sorteio
 
-<!-- [![](https://blog.curso-r.com/images/logo.webp){fig-alt="Logo do Insper" fig-align="center" width="50%"}](https://curso-r.com/) -->
+[![](https://blog.curso-r.com/images/logo.webp){fig-alt="Logo do Insper" fig-align="center" width="50%"}](https://curso-r.com/)
