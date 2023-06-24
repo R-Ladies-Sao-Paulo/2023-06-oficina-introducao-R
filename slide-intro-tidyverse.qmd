@@ -65,7 +65,6 @@ Saber poucos comandos já basta pra começar a analisar!
 | **bind_rows**\* | junta as linhas de duas tabelas diferentes |
 | **str_sub**\*   | puxa só parte do valor de uma coluna       |
 
-
 ## O operador pipe: %\>% ou \|\>
 
 -   pipe = cano, encanamento, fazer a informação fluir
@@ -88,7 +87,7 @@ Vamos aprender a conjugar na prática com dados da nova Assembleia Legislativa d
 
 Observem a tabela abaixo. Cada grupo terá uma pergunta para responder!
 
-> [tabela alesp.csv no Google Planilhas](https://docs.google.com/spreadsheets/d/1MOsbgpSgOCbZpG1BgXEeC5KwikCyLeAUJaaLuXxXyU4/edit#gid=0)
+> [tabela alesp.csv](https://github.com/R-Ladies-Sao-Paulo/2023-06-oficina-introducao-R/raw/main/data/alesp.csv)
 
 ## Perguntas:
 
