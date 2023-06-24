@@ -81,7 +81,7 @@
     "href": "slide-intro-r-parte-ii.html#criando-objetos",
     "title": "Introdução ao R - Parte II",
     "section": "Criando objetos",
-    "text": "Criando objetos\n\nPodemos criar objetos (e guardar resultados) usando o operador de atribuição &lt;-, e a estrutura a seguir:\n\nnome_do_objeto &lt;- valor\nExemplo:\n\nx &lt;- 3 * 4\n\nPodemos ver o conteúdo do objeto escrevendo o nome e executando:\n\nx\n\n[1] 12"
+    "text": "Criando objetos\n\nPodemos criar objetos (e guardar resultados) usando o operador de atribuição &lt;-, e a estrutura a seguir:\n\n``` {{r}}\nnome_do_objeto &lt;- valor\n```\nExemplo:\n\nx &lt;- 3 * 4\n\nPodemos ver o conteúdo do objeto escrevendo o nome e executando:\n\nx\n\n[1] 12"
   },
   {
     "objectID": "slide-intro-r-parte-ii.html#boas-práticas-e-objetos",
@@ -231,76 +231,6 @@
     "text": "Alimentação\n\nPosso levar meu próprio lanche?\n\nSim! O Insper tem um andar com várias mesas e cadeiras, e também tem microondas para esquentar comida caso seja necessário."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Oficina de Introdução ao R e ao Tidyverse",
-    "section": "",
-    "text": "Essa oficina acontecerá presencialmente, em São Paulo, em 24/06/2023.\nInscrições através da plataforma Meetup."
-  },
-  {
-    "objectID": "index.html#boas-vindas",
-    "href": "index.html#boas-vindas",
-    "title": "Oficina de Introdução ao R e ao Tidyverse",
-    "section": "",
-    "text": "Essa oficina acontecerá presencialmente, em São Paulo, em 24/06/2023.\nInscrições através da plataforma Meetup."
-  },
-  {
-    "objectID": "index.html#café-colaborativo-temático-festa-junina",
-    "href": "index.html#café-colaborativo-temático-festa-junina",
-    "title": "Oficina de Introdução ao R e ao Tidyverse",
-    "section": "Café colaborativo temático: festa junina",
-    "text": "Café colaborativo temático: festa junina\nNeste evento, teremos um café colaborativo. As pessoas participantes podem levar comes e bebes para compartilhar com o grupo, mas não é obrigatório!"
-  },
-  {
-    "objectID": "index.html#sorteio",
-    "href": "index.html#sorteio",
-    "title": "Oficina de Introdução ao R e ao Tidyverse",
-    "section": "Sorteio",
-    "text": "Sorteio\nNeste evento, teremos o sorteio de:\n\n2 bolsas para qualquer curso da Curso-R\n1 exemplar do livro “Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios”, por Cole Nussbaumer (Doação por Beatriz Milz)\n1 exemplar do livro “O feminismo é para todo mundo: Políticas arrebatadoras” por bell hooks (Doação por Beatriz Milz)"
-  },
-  {
-    "objectID": "index.html#espaço-gugudadados",
-    "href": "index.html#espaço-gugudadados",
-    "title": "Oficina de Introdução ao R e ao Tidyverse",
-    "section": "Espaço Gugudadados",
-    "text": "Espaço Gugudadados\nO Espaço Gugudadados é um espaço feito para facilitar a participação de mães e pessoas cuidadoras. Este espaço fica próximo à sala principal da atividade, e contará com brinquedos e pessoas adultas que acompanharão as crianças durante o evento principal. Também teremos a presença de uma professora remunerada para acompanhar as crianças.\nCaso queira saber mais sobre como foi no último evento, leia aqui."
-  },
-  {
-    "objectID": "index.html#auxílio-alimentação-e-transporte",
-    "href": "index.html#auxílio-alimentação-e-transporte",
-    "title": "Oficina de Introdução ao R e ao Tidyverse",
-    "section": "Auxílio alimentação e transporte",
-    "text": "Auxílio alimentação e transporte\nNeste evento, teremos auxílio de alimentação e transporte para algumas pessoas participantes. Caso você tenha interesse em solicitar o auxílio, preencha este formulário até dia 17/06/2023 e se inscreva no evento: https://forms.gle/LxscVmN3CiCsazuQA."
-  },
-  {
-    "objectID": "index.html#protocolos-referentes-à-covid-19",
-    "href": "index.html#protocolos-referentes-à-covid-19",
-    "title": "Oficina de Introdução ao R e ao Tidyverse",
-    "section": "Protocolos referentes à COVID-19",
-    "text": "Protocolos referentes à COVID-19\nRecomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19."
-  },
-  {
-    "objectID": "index.html#código-de-conduta",
-    "href": "index.html#código-de-conduta",
-    "title": "Oficina de Introdução ao R e ao Tidyverse",
-    "section": "Código de conduta",
-    "text": "Código de conduta\nEste código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: Clique aqui para acessar o código de conduta."
-  },
-  {
-    "objectID": "index.html#siga-a-r-ladies-são-paulo",
-    "href": "index.html#siga-a-r-ladies-são-paulo",
-    "title": "Oficina de Introdução ao R e ao Tidyverse",
-    "section": "Siga a R-Ladies São Paulo!",
-    "text": "Siga a R-Ladies São Paulo!\n\nBlog\nLinkedin\nMeetup\nYoutube\nTwitter\nInstagram"
-  },
-  {
-    "objectID": "index.html#apoio",
-    "href": "index.html#apoio",
-    "title": "Oficina de Introdução ao R e ao Tidyverse",
-    "section": "Apoio",
-    "text": "Apoio\n\n\n\n\n\n\n\n\nR Consortium Logo"
-  },
-  {
     "objectID": "slide-rladies.html#o-que-é-a-r-ladies",
     "href": "slide-rladies.html#o-que-é-a-r-ladies",
     "title": "Conhecendo a R-Ladies São Paulo",
@@ -390,6 +320,97 @@
     "title": "Conhecendo a R-Ladies São Paulo",
     "section": "Saiba mais sobre a R-Ladies",
     "text": "Saiba mais sobre a R-Ladies\n\nR-Ladies Global: Website,  Twitter\nR-Ladies São Paulo:\n\nBlog: https://rladies-sp.org/\n Linkedin\n\n Twitter\n Instagram\n Facebook\n Meetup\n GitHub\n Youtube\n\n\n\n\n\n\n\n\nSlides feitos com Quarto e Quarto R-Ladies Theme."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Oficina de Introdução ao R e ao Tidyverse",
+    "section": "",
+    "text": "Essa oficina acontecerá presencialmente, em São Paulo, em 24/06/2023.\nInscrições através da plataforma Meetup."
+  },
+  {
+    "objectID": "index.html#boas-vindas",
+    "href": "index.html#boas-vindas",
+    "title": "Oficina de Introdução ao R e ao Tidyverse",
+    "section": "",
+    "text": "Essa oficina acontecerá presencialmente, em São Paulo, em 24/06/2023.\nInscrições através da plataforma Meetup."
+  },
+  {
+    "objectID": "index.html#café-colaborativo-temático-festa-junina",
+    "href": "index.html#café-colaborativo-temático-festa-junina",
+    "title": "Oficina de Introdução ao R e ao Tidyverse",
+    "section": "Café colaborativo temático: festa junina",
+    "text": "Café colaborativo temático: festa junina\nNeste evento, teremos um café colaborativo. As pessoas participantes podem levar comes e bebes para compartilhar com o grupo, mas não é obrigatório!"
+  },
+  {
+    "objectID": "index.html#sorteio",
+    "href": "index.html#sorteio",
+    "title": "Oficina de Introdução ao R e ao Tidyverse",
+    "section": "Sorteio",
+    "text": "Sorteio\nNeste evento, teremos o sorteio de:\n\n2 bolsas para qualquer curso da Curso-R\n1 exemplar do livro “Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios”, por Cole Nussbaumer (Doação por Beatriz Milz)\n1 exemplar do livro “O feminismo é para todo mundo: Políticas arrebatadoras” por bell hooks (Doação por Beatriz Milz)"
+  },
+  {
+    "objectID": "index.html#espaço-gugudadados",
+    "href": "index.html#espaço-gugudadados",
+    "title": "Oficina de Introdução ao R e ao Tidyverse",
+    "section": "Espaço Gugudadados",
+    "text": "Espaço Gugudadados\nO Espaço Gugudadados é um espaço feito para facilitar a participação de mães e pessoas cuidadoras. Este espaço fica próximo à sala principal da atividade, e contará com brinquedos e pessoas adultas que acompanharão as crianças durante o evento principal. Também teremos a presença de uma professora remunerada para acompanhar as crianças.\nCaso queira saber mais sobre como foi no último evento, leia aqui."
+  },
+  {
+    "objectID": "index.html#auxílio-alimentação-e-transporte",
+    "href": "index.html#auxílio-alimentação-e-transporte",
+    "title": "Oficina de Introdução ao R e ao Tidyverse",
+    "section": "Auxílio alimentação e transporte",
+    "text": "Auxílio alimentação e transporte\nNeste evento, teremos auxílio de alimentação e transporte para algumas pessoas participantes. Caso você tenha interesse em solicitar o auxílio, preencha este formulário até dia 17/06/2023 e se inscreva no evento: https://forms.gle/LxscVmN3CiCsazuQA."
+  },
+  {
+    "objectID": "index.html#protocolos-referentes-à-covid-19",
+    "href": "index.html#protocolos-referentes-à-covid-19",
+    "title": "Oficina de Introdução ao R e ao Tidyverse",
+    "section": "Protocolos referentes à COVID-19",
+    "text": "Protocolos referentes à COVID-19\nRecomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19."
+  },
+  {
+    "objectID": "index.html#código-de-conduta",
+    "href": "index.html#código-de-conduta",
+    "title": "Oficina de Introdução ao R e ao Tidyverse",
+    "section": "Código de conduta",
+    "text": "Código de conduta\nEste código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: Clique aqui para acessar o código de conduta."
+  },
+  {
+    "objectID": "index.html#siga-a-r-ladies-são-paulo",
+    "href": "index.html#siga-a-r-ladies-são-paulo",
+    "title": "Oficina de Introdução ao R e ao Tidyverse",
+    "section": "Siga a R-Ladies São Paulo!",
+    "text": "Siga a R-Ladies São Paulo!\n\nBlog\nLinkedin\nMeetup\nYoutube\nTwitter\nInstagram"
+  },
+  {
+    "objectID": "index.html#apoio",
+    "href": "index.html#apoio",
+    "title": "Oficina de Introdução ao R e ao Tidyverse",
+    "section": "Apoio",
+    "text": "Apoio\n\n\n\n\n\n\n\n\nR Consortium Logo"
+  },
+  {
+    "objectID": "mensagem-auxilios.html",
+    "href": "mensagem-auxilios.html",
+    "title": "Auxílio financeiro",
+    "section": "",
+    "text": "Para quem solicitou o auxílio alimentação, será destinado o valor fixo de R$ 50,00 (cinquenta reais) por pessoa.\nAo checar no evento, procure a Beatriz Milz, que faz parte da equipe organizadora. Ela estará responsável por fazer as transferências dos valores (preferencialmente via PIX)."
+  },
+  {
+    "objectID": "mensagem-auxilios.html#auxílio-alimentação",
+    "href": "mensagem-auxilios.html#auxílio-alimentação",
+    "title": "Auxílio financeiro",
+    "section": "",
+    "text": "Para quem solicitou o auxílio alimentação, será destinado o valor fixo de R$ 50,00 (cinquenta reais) por pessoa.\nAo checar no evento, procure a Beatriz Milz, que faz parte da equipe organizadora. Ela estará responsável por fazer as transferências dos valores (preferencialmente via PIX)."
+  },
+  {
+    "objectID": "mensagem-auxilios.html#auxílio-transporte",
+    "href": "mensagem-auxilios.html#auxílio-transporte",
+    "title": "Auxílio financeiro",
+    "section": "Auxílio transporte",
+    "text": "Auxílio transporte\nPara quem solicitou o auxílio alimentação, será destinado o valor que foi solicitado no formulário.\nO valor de auxílio será disponibilizado preferencialmente ao chegar no evento (formato de reembolso). Ao checar no evento, procure a Beatriz Milz, que faz parte da equipe organizadora. Ela estará responsável por fazer as transferências dos valores (preferencialmente via PIX).\nCaso a sua participação seja inviabilizada nesta modalidade de reembolso ao chegar no evento, nos avise para que possamos alinhar outras formas de transferir o valor."
   },
   {
     "objectID": "slide-intro-r-parte-i.html#você-deveria-estar-aqui-hoje",
