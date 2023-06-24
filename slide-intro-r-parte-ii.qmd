@@ -47,9 +47,11 @@ knitr::include_graphics("https://r4ds.hadley.nz/diagrams/rstudio-editor.png")
 
 -   Podemos criar objetos (e guardar resultados) usando o operador de atribuição `<-`, e a estrutura a seguir:
 
+````         
 ``` {{r}}
 nome_do_objeto <- valor
 ```
+````
 
 Exemplo:
 
@@ -290,7 +292,7 @@ c)  Escolher nomes úteis e não redundantes
 **Código e comentários:**
 
 a)  Inserir espaços só após as vírgulas e parênteses
-b) Comente seu código (com a hashtag #)
+b)  Comente seu código (com a hashtag #)
 c)  Use a quebra de linha para facilitar a leitura
 
 ## Erros mais comuns!
@@ -298,7 +300,3 @@ c)  Use a quebra de linha para facilitar a leitura
 -   Rodar uma linha de código sem ter rodado as anteriores, que fazem parte de uma "sequência" de comandos para o programa
 
 -   Pequenos erros de digitação ao escrever o código
-
-
-
-
